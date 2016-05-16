@@ -2,6 +2,8 @@
 
 > My [JSON Resume](https://jsonresume.org)
 
+[![Build status](https://img.shields.io/travis/alebelcor/resume.json.svg)](https://travis-ci.org/alebelcor/resume.json)
+
 ## License
 
 MIT © Alejandro Beltrán
