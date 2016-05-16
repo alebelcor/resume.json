@@ -1,0 +1,26 @@
+{
+  "name": "resume.json",
+  "description": "My JSON Resume",
+  "bugs": "https://github.com/alebelcor/resume.json/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Alejandro Beltrán",
+    "email": "alebelcor@gmail.com",
+    "url": "https://github.com/alebelcor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alebelcor/resume.json.git"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jsonlint": "^1.1.2"
+  },
+  "private": true
+}
