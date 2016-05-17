@@ -104,6 +104,7 @@
         "summary": "Finished an internship where I was trained in IBM Lotus Notes/Domino. I learned LotusScript and Formula Language, developed a smaller, simplified version of a transcription management system and an automated setup program for its installation."
       }
     ],
+    "volunteer": [],
     "education": [
       {
         "institution": "Instituto Tecnológico de Hermosillo",
@@ -113,6 +114,8 @@
         "endDate": "2008-12"
       }
     ],
+    "awards": [],
+    "publications": [],
     "skills": [
       {
         "name": "Software Engineering",
@@ -170,12 +173,12 @@
     ],
     "languages": [
       {
-        "name": "English",
-        "level": "Professional proficiency"
+        "language": "English",
+        "fluency": "Professional proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native speaker"
+        "language": "Spanish",
+        "fluency": "Native speaker"
       }
     ],
     "interests": [
