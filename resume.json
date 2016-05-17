@@ -10,183 +10,219 @@
       "countryCode": "MX",
       "region": "Sonora"
     },
-    "profiles": [{
-      "network": "GitHub",
-      "username": "alebelcor",
-      "url": "https://github.com/alebelcor"
-    }, {
-      "network": "LinkedIn",
-      "username": "alebelcor",
-      "url": "https://linkedin.com/in/alebelcor"
-    }, {
-      "network": "Twitter",
-      "username": "alebelcor",
-      "url": "https://twitter.com/alebelcor"
-    }],
-    "work": [{
-      "position": "Software Developer",
-      "website": "http://nearsoft.com",
-      "startDate": "2014-02",
-      "summary": "Working as Web Developer with Switchfly, Inc. focused on Front End Engineering and maintenance of a SaaS platform that powers travel, loyalty, social, payment, and mobile products for multiple clients."
-    }, {
-      "company": "Switchfly, Inc.",
-      "position": "Web Developer",
-      "website": "https://switchfly.com",
-      "startDate": "2014-02",
-      "summary": "Focused on Front End Engineering and maintenance of a SaaS platform that powers travel, loyalty, social, payment, and mobile products for multiple clients."
-    }, {
-      "company": "Intugo",
-      "position": "Senior Software Engineer",
-      "website": "http://intugo.co",
-      "startDate": "2013-07",
-      "endDate": "2014-02",
-      "summary": "Worked as Senior Software Engineer with Evolve Media, LLC. focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
-    }, {
-      "company": "Evolve Media, LLC",
-      "position": "Senior Software Engineer",
-      "website": "http://evolvemediallc.com",
-      "startDate": "2013-07",
-      "endDate": "2014-02",
-      "summary": "Worked as Senior Software Engineer focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
-    }, {
-      "company": "Intugo",
-      "position": "Software Engineer",
-      "website": "http://intugo.co",
-      "startDate": "2012-07",
-      "endDate": "2013-07",
-      "summary": "Worked as Software Engineer with Evolve Media, LLC. focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
-    }, {
-      "company": "Evolve Media, LLC",
-      "position": "Software Engineer",
-      "website": "http://evolvemediallc.com",
-      "startDate": "2012-07",
-      "endDate": "2013-07",
-      "summary": "Worked as Software Engineer focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
-    }, {
-      "company": "Nearsoft",
-      "position": "Software Developer",
-      "website": "http://nearsoft.com",
-      "startDate": "2009-01",
-      "endDate": "2012-07",
-      "summary": "Worked as Application Development Engineer with OptumInsight (formerly Axolotl Corp.) extending and maintaining their EMR Lite, related services and applications."
-    }, {
-      "company": "OptumInsight (formerly Axolotl Corp.)",
-      "position": "Application Development Engineer",
-      "startDate": "2011-06",
-      "endDate": "2012-06",
-      "summary": "Worked as Application Development Engineer extending and maintaining their EMR Lite system, related services and applications."
-    }, {
-      "company": "Axolotl Corp. (an Ingenix company)",
-      "position": "Application Development Engineer",
-      "startDate": "2009-01",
-      "endDate": "2011-06",
-      "summary": "Extended and maintained their EMR Lite, related services and applications."
-    }, {
-      "company": "Nearsoft",
-      "position": "Axolotl Academy Intern",
-      "website": "http://nearsoft.com",
-      "startDate": "2008-08",
-      "endDate": "2009-01",
-      "summary": "Finished an internship where I was trained in IBM Lotus Notes/Domino. I learned LotusScript and Formula Language, developed a smaller, simplified version of a transcription management system and an automated setup program for its installation."
-    }],
-    "education": [{
-      "institution": "Instituto Tecnológico de Hermosillo",
-      "area": "Computer Systems Engineering",
-      "studyType": "Bachelor (graduate)",
-      "startDate": "2004-08",
-      "endDate": "2008-12"
-    }],
-    "skills": [{
-      "name": "Software Engineering",
-      "keywords": [
-        "Agile",
-        "Unit testing",
-        "Linting",
-        "Documentation",
-        "Git"
-      ]
-    }, {
-      "name": "Front End Engineering",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Sass",
-        "Ember.js",
-        "Handlebars.js",
-        "jQuery",
-        "Web performance"
-      ]
-    }, {
-      "name": "Node.js",
-      "keywords": [
-        "AVA",
-        "Chai",
-        "ESLint",
-        "Grunt",
-        "Gulp",
-        "Jasmine",
-        "JSHint",
-        "Karma",
-        "Mocha",
-        "npm",
-        "PostCSS"
-      ]
-    }, {
-      "name": "Tooling",
-      "keywords": [
-        "Ant",
-        "Bash",
-        "Homebrew",
-        "Homebrew Cask",
-        "Intellij IDEA",
-        "iTerm2",
-        "Markdown",
-        "Sublime Text",
-        "Travis CI"
-      ]
-    }],
-    "languages": [{
-      "name": "English",
-      "level": "Professional proficiency"
-    }, {
-      "name": "Spanish",
-      "level": "Native speaker"
-    }],
-    "interests": [{
-      "name": "Front End",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Node.js",
-        "UI"
-      ]
-    }],
-    "references": [{
-      "name": "Basile Kuo, Engineering Manager at Switchfly, Inc.",
-      "reference": "It wasn't long before Alejandro joined our team and became one of the leading front end developers. He is an expert in his domain as a web developer, but his ability reaches well beyond it. Alejandro is adept at solutioning, resolving issues the right way quickly. In addition to his technical strength, Alejandro communicates well and keeps his team laughing with his keen sense of humor. Who wouldn't want him on their team? Come back to mine!"
-    }, {
-      "name": "Amanda Chiu, former Project Manager at Switchfly, Inc.",
-      "reference": "Not only is Alejandro sharp and quick to put together clean solutions, but he also possesses clear communication skills that make him a strong team member to work with. He was one of the best developers I had the pleasure of working with at Switchfly, and a fantastic example of how a creative, fast-paced, and forward thinking web developer could majorly help steer the success of a team."
-    }, {
-      "name": "Vinoj Zacharia, Senior Manager Software Engineering at Evolve Media, LLC.",
-      "reference": "Alejandro was easily one of the best developers I've collaborated with. He innately has a clear grasp of how to take business requirements and convert it to code, and it helped greatly that he was a front-end code aficionado, constantly keeping up with the best techniques and practices. I believe Alejandro will be successful at any organization, both with his technical savvy and his amicable personality."
-    }, {
-      "name": "Katie Bolz, Product Manager at Evolve Media, LLC.",
-      "reference": "I had the pleasure of working with Alejandro when he was a Senior Software Engineer at Evolve Media LLC. While offering smart solutions and support daily, he managed to repeatedly crank out high quality results. In addition to bringing expertise, he also is a very easy to talk to makes an excellent team member. I would highly recommend Alejandro, he is an exceptional asset and any team would be lucky to have him."
-    }, {
-      "name": "Janet Park, former Product Manager at Evolve Media, LLC.",
-      "reference": "Alejandro is the kind of guy you want playing for your team. He's collaborative, focused, and excels at creative problem solving. Brainstorming with him is always exciting adventure. Every time I've approached him with a problem, we've always emerged from the conversation with an elegant solution that's both sexy and simple. I admire the passion he has for his craft, and his dedication to staying current on emerging trends. He's an excellent communicator, a good friend, and an absolute joy to work with day after day."
-    }, {
-      "name": "Thiago Croce, former Software Engineering Manager at Axolotl Corp.",
-      "reference": "Alejandro is an extremely devoted engineer, willing to go far beyond the expected to deliver quality code. He has become not only a dependable and knowledgeable part of our team, but has also become a resident expert in several web technologies, such as JavaScript, HTML, and DOM."
-    }, {
-      "name": "Daren Nicholson, former Product Manager at Axolotl Corp.",
-      "reference": "Alejandro does excellent work. He always finds ways to solve problems and often catches details that others overlook. His communication skills are excellent. It's always a joy to watch when he demonstrates new functionality that he has built."
-    }, {
-      "name": "Lin Wan, former Director of Software Development at Axolotl Corp.",
-      "reference": "Alejandro has worked conscientiously on projects assigned to him and has picked up significant domain and software development knowledge over the years."
-    }]
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "alebelcor",
+        "url": "https://github.com/alebelcor"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "alebelcor",
+        "url": "https://linkedin.com/in/alebelcor"
+      },
+      {
+        "network": "Twitter",
+        "username": "alebelcor",
+        "url": "https://twitter.com/alebelcor"
+      }
+    ],
+    "work": [
+      {
+        "position": "Software Developer",
+        "website": "http://nearsoft.com",
+        "startDate": "2014-02",
+        "summary": "Working as Web Developer with Switchfly, Inc. focused on Front End Engineering and maintenance of a SaaS platform that powers travel, loyalty, social, payment, and mobile products for multiple clients."
+      },
+      {
+        "company": "Switchfly, Inc.",
+        "position": "Web Developer",
+        "website": "https://switchfly.com",
+        "startDate": "2014-02",
+        "summary": "Focused on Front End Engineering and maintenance of a SaaS platform that powers travel, loyalty, social, payment, and mobile products for multiple clients."
+      },
+      {
+        "company": "Intugo",
+        "position": "Senior Software Engineer",
+        "website": "http://intugo.co",
+        "startDate": "2013-07",
+        "endDate": "2014-02",
+        "summary": "Worked as Senior Software Engineer with Evolve Media, LLC. focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
+      },
+      {
+        "company": "Evolve Media, LLC",
+        "position": "Senior Software Engineer",
+        "website": "http://evolvemediallc.com",
+        "startDate": "2013-07",
+        "endDate": "2014-02",
+        "summary": "Worked as Senior Software Engineer focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
+      },
+      {
+        "company": "Intugo",
+        "position": "Software Engineer",
+        "website": "http://intugo.co",
+        "startDate": "2012-07",
+        "endDate": "2013-07",
+        "summary": "Worked as Software Engineer with Evolve Media, LLC. focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
+      },
+      {
+        "company": "Evolve Media, LLC",
+        "position": "Software Engineer",
+        "website": "http://evolvemediallc.com",
+        "startDate": "2012-07",
+        "endDate": "2013-07",
+        "summary": "Worked as Software Engineer focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
+      },
+      {
+        "company": "Nearsoft",
+        "position": "Software Developer",
+        "website": "http://nearsoft.com",
+        "startDate": "2009-01",
+        "endDate": "2012-07",
+        "summary": "Worked as Application Development Engineer with OptumInsight (formerly Axolotl Corp.) extending and maintaining their EMR Lite, related services and applications."
+      },
+      {
+        "company": "OptumInsight (formerly Axolotl Corp.)",
+        "position": "Application Development Engineer",
+        "startDate": "2011-06",
+        "endDate": "2012-06",
+        "summary": "Worked as Application Development Engineer extending and maintaining their EMR Lite system, related services and applications."
+      },
+      {
+        "company": "Axolotl Corp. (an Ingenix company)",
+        "position": "Application Development Engineer",
+        "startDate": "2009-01",
+        "endDate": "2011-06",
+        "summary": "Extended and maintained their EMR Lite, related services and applications."
+      },
+      {
+        "company": "Nearsoft",
+        "position": "Axolotl Academy Intern",
+        "website": "http://nearsoft.com",
+        "startDate": "2008-08",
+        "endDate": "2009-01",
+        "summary": "Finished an internship where I was trained in IBM Lotus Notes/Domino. I learned LotusScript and Formula Language, developed a smaller, simplified version of a transcription management system and an automated setup program for its installation."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Instituto Tecnológico de Hermosillo",
+        "area": "Computer Systems Engineering",
+        "studyType": "Bachelor (graduate)",
+        "startDate": "2004-08",
+        "endDate": "2008-12"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Software Engineering",
+        "keywords": [
+          "Agile",
+          "Unit testing",
+          "Linting",
+          "Documentation",
+          "Git"
+        ]
+      },
+      {
+        "name": "Front End Engineering",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Sass",
+          "Ember.js",
+          "Handlebars.js",
+          "jQuery",
+          "Web performance"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "keywords": [
+          "AVA",
+          "Chai",
+          "ESLint",
+          "Grunt",
+          "Gulp",
+          "Jasmine",
+          "JSHint",
+          "Karma",
+          "Mocha",
+          "npm",
+          "PostCSS"
+        ]
+      },
+      {
+        "name": "Tooling",
+        "keywords": [
+          "Ant",
+          "Bash",
+          "Homebrew",
+          "Homebrew Cask",
+          "Intellij IDEA",
+          "iTerm2",
+          "Markdown",
+          "Sublime Text",
+          "Travis CI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native speaker"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Front End",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Node.js",
+          "UI"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": "Basile Kuo, Engineering Manager at Switchfly, Inc.",
+        "reference": "It wasn't long before Alejandro joined our team and became one of the leading front end developers. He is an expert in his domain as a web developer, but his ability reaches well beyond it. Alejandro is adept at solutioning, resolving issues the right way quickly. In addition to his technical strength, Alejandro communicates well and keeps his team laughing with his keen sense of humor. Who wouldn't want him on their team? Come back to mine!"
+      },
+      {
+        "name": "Amanda Chiu, former Project Manager at Switchfly, Inc.",
+        "reference": "Not only is Alejandro sharp and quick to put together clean solutions, but he also possesses clear communication skills that make him a strong team member to work with. He was one of the best developers I had the pleasure of working with at Switchfly, and a fantastic example of how a creative, fast-paced, and forward thinking web developer could majorly help steer the success of a team."
+      },
+      {
+        "name": "Vinoj Zacharia, Senior Manager Software Engineering at Evolve Media, LLC.",
+        "reference": "Alejandro was easily one of the best developers I've collaborated with. He innately has a clear grasp of how to take business requirements and convert it to code, and it helped greatly that he was a front-end code aficionado, constantly keeping up with the best techniques and practices. I believe Alejandro will be successful at any organization, both with his technical savvy and his amicable personality."
+      },
+      {
+        "name": "Katie Bolz, Product Manager at Evolve Media, LLC.",
+        "reference": "I had the pleasure of working with Alejandro when he was a Senior Software Engineer at Evolve Media LLC. While offering smart solutions and support daily, he managed to repeatedly crank out high quality results. In addition to bringing expertise, he also is a very easy to talk to makes an excellent team member. I would highly recommend Alejandro, he is an exceptional asset and any team would be lucky to have him."
+      },
+      {
+        "name": "Janet Park, former Product Manager at Evolve Media, LLC.",
+        "reference": "Alejandro is the kind of guy you want playing for your team. He's collaborative, focused, and excels at creative problem solving. Brainstorming with him is always exciting adventure. Every time I've approached him with a problem, we've always emerged from the conversation with an elegant solution that's both sexy and simple. I admire the passion he has for his craft, and his dedication to staying current on emerging trends. He's an excellent communicator, a good friend, and an absolute joy to work with day after day."
+      },
+      {
+        "name": "Thiago Croce, former Software Engineering Manager at Axolotl Corp.",
+        "reference": "Alejandro is an extremely devoted engineer, willing to go far beyond the expected to deliver quality code. He has become not only a dependable and knowledgeable part of our team, but has also become a resident expert in several web technologies, such as JavaScript, HTML, and DOM."
+      },
+      {
+        "name": "Daren Nicholson, former Product Manager at Axolotl Corp.",
+        "reference": "Alejandro does excellent work. He always finds ways to solve problems and often catches details that others overlook. His communication skills are excellent. It's always a joy to watch when he demonstrates new functionality that he has built."
+      },
+      {
+        "name": "Lin Wan, former Director of Software Development at Axolotl Corp.",
+        "reference": "Alejandro has worked conscientiously on projects assigned to him and has picked up significant domain and software development knowledge over the years."
+      }
+    ]
   }
 }
