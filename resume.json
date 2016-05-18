@@ -141,7 +141,7 @@
   "skills": [
     {
       "name": "Software Engineering",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Agile",
         "Unit testing",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Front End Engineering",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "HTML",
         "CSS",
@@ -166,7 +166,7 @@
     },
     {
       "name": "Node.js",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "AVA",
         "Chai",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Tooling",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Ant",
         "Bash",
@@ -200,7 +200,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Professional proficiency"
+      "fluency": "Fluent"
     },
     {
       "language": "Spanish",
