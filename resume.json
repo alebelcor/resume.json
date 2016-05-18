@@ -120,11 +120,13 @@
       "name": "Software Engineering",
       "level": "Advanced",
       "keywords": [
-        "Agile",
-        "Unit testing",
-        "Linting",
-        "Documentation",
-        "Git"
+        "Agile software development",
+        "Continuous integration",
+        "Git",
+        "Software release cycle",
+        "Software security",
+        "Static code analysis",
+        "Unit testing"
       ]
     },
     {
