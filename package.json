@@ -15,9 +15,6 @@
   "scripts": {
     "test": "gulp test"
   },
-  "engines": {
-    "node": ">=0.10.0"
-  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-json-schema": "^1.0.0",
