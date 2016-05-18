@@ -4,12 +4,8 @@
     "label": "Software Engineer",
     "picture": "https://en.gravatar.com/userimage/20121596/831b4fcdcd622c6273eb11a4392d4cc1.jpg?size=200",
     "email": "alebelcor@gmail.com",
-    "phone": "",
-    "website": "",
     "summary": "Motivated and focused professional that is constantly searching for excellence through expansion of current knowledge and delivery of high quality work",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Hermosillo",
       "countryCode": "MX",
       "region": "Sonora"
@@ -38,18 +34,14 @@
       "position": "Software Developer",
       "website": "http://nearsoft.com",
       "startDate": "2014-02",
-      "endDate": "",
-      "summary": "Working as Web Developer with Switchfly, Inc. focused on Front End Engineering and maintenance of a SaaS platform that powers travel, loyalty, social, payment, and mobile products for multiple clients.",
-      "highlights": []
+      "summary": "Working as Web Developer with Switchfly, Inc. focused on Front End Engineering and maintenance of a SaaS platform that powers travel, loyalty, social, payment, and mobile products for multiple clients."
     },
     {
       "company": "Switchfly, Inc.",
       "position": "Web Developer",
       "website": "https://switchfly.com",
       "startDate": "2014-02",
-      "endDate": "",
-      "summary": "Focused on Front End Engineering and maintenance of a SaaS platform that powers travel, loyalty, social, payment, and mobile products for multiple clients.",
-      "highlights": []
+      "summary": "Focused on Front End Engineering and maintenance of a SaaS platform that powers travel, loyalty, social, payment, and mobile products for multiple clients."
     },
     {
       "company": "Intugo",
@@ -57,8 +49,7 @@
       "website": "http://intugo.co",
       "startDate": "2013-07",
       "endDate": "2014-02",
-      "summary": "Worked as Senior Software Engineer with Evolve Media, LLC. focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment.",
-      "highlights": []
+      "summary": "Worked as Senior Software Engineer with Evolve Media, LLC. focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
     },
     {
       "company": "Evolve Media, LLC",
@@ -66,8 +57,7 @@
       "website": "http://evolvemediallc.com",
       "startDate": "2013-07",
       "endDate": "2014-02",
-      "summary": "Worked as Senior Software Engineer focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment.",
-      "highlights": []
+      "summary": "Worked as Senior Software Engineer focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
     },
     {
       "company": "Intugo",
@@ -75,8 +65,7 @@
       "website": "http://intugo.co",
       "startDate": "2012-07",
       "endDate": "2013-07",
-      "summary": "Worked as Software Engineer with Evolve Media, LLC. focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment.",
-      "highlights": []
+      "summary": "Worked as Software Engineer with Evolve Media, LLC. focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
     },
     {
       "company": "Evolve Media, LLC",
@@ -84,8 +73,7 @@
       "website": "http://evolvemediallc.com",
       "startDate": "2012-07",
       "endDate": "2013-07",
-      "summary": "Worked as Software Engineer focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment.",
-      "highlights": []
+      "summary": "Worked as Software Engineer focused on Front End Engineering for multiple heavily trafficked and highly ranked websites targeting, among other things: women, fashion, sports, gaming and entertainment."
     },
     {
       "company": "Nearsoft",
@@ -93,26 +81,21 @@
       "website": "http://nearsoft.com",
       "startDate": "2009-01",
       "endDate": "2012-07",
-      "summary": "Worked as Application Development Engineer with OptumInsight (formerly Axolotl Corp.) extending and maintaining their EMR Lite, related services and applications.",
-      "highlights": []
+      "summary": "Worked as Application Development Engineer with OptumInsight (formerly Axolotl Corp.) extending and maintaining their EMR Lite, related services and applications."
     },
     {
       "company": "OptumInsight (formerly Axolotl Corp.)",
       "position": "Application Development Engineer",
-      "website": "",
       "startDate": "2011-06",
       "endDate": "2012-06",
-      "summary": "Worked as Application Development Engineer extending and maintaining their EMR Lite system, related services and applications.",
-      "highlights": []
+      "summary": "Worked as Application Development Engineer extending and maintaining their EMR Lite system, related services and applications."
     },
     {
       "company": "Axolotl Corp. (an Ingenix company)",
       "position": "Application Development Engineer",
-      "website": "",
       "startDate": "2009-01",
       "endDate": "2011-06",
-      "summary": "Extended and maintained their EMR Lite, related services and applications.",
-      "highlights": []
+      "summary": "Extended and maintained their EMR Lite, related services and applications."
     },
     {
       "company": "Nearsoft",
@@ -120,24 +103,18 @@
       "website": "http://nearsoft.com",
       "startDate": "2008-08",
       "endDate": "2009-01",
-      "summary": "Finished an internship where I was trained in IBM Lotus Notes/Domino. I learned LotusScript and Formula Language, developed a smaller, simplified version of a transcription management system and an automated setup program for its installation.",
-      "highlights": []
+      "summary": "Finished an internship where I was trained in IBM Lotus Notes/Domino. I learned LotusScript and Formula Language, developed a smaller, simplified version of a transcription management system and an automated setup program for its installation."
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Instituto Tecnológico de Hermosillo",
       "area": "Computer Systems Engineering",
       "studyType": "Bachelor (graduate)",
       "startDate": "2004-08",
-      "endDate": "2008-12",
-      "gpa": "",
-      "courses": []
+      "endDate": "2008-12"
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Software Engineering",
