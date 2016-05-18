@@ -22,7 +22,7 @@
     "gulp": "^3.9.1",
     "gulp-json-schema": "^1.0.0",
     "gulp-jsonlint": "^1.1.2",
-    "resume-schema": "0.0.16"
+    "resume-schema": "*"
   },
   "private": true
 }
