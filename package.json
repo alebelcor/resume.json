@@ -13,14 +13,15 @@
     "url": "https://github.com/alebelcor/resume.json.git"
   },
   "scripts": {
-    "test": "gulp test"
+    "test-lint": "jsonlint resume.json --quiet",
+    "test-validate": "resume test",
+    "test-spellcheck": "yaspeller resume.json",
+    "test": "npm run test-lint && npm run test-validate && npm run test-spellcheck"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-json-schema": "^1.0.0",
-    "gulp-jsonlint": "^1.1.2",
-    "gulp-run": "^1.7.1",
-    "resume-schema": "*"
+    "jsonlint": "^1.6.2",
+    "resume-cli": "^0.4.14",
+    "yaspeller": "^3.0.0"
   },
   "private": true
 }
