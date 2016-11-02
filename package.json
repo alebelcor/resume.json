@@ -13,6 +13,7 @@
     "url": "https://github.com/alebelcor/resume.json.git"
   },
   "scripts": {
+    "build": "resume export \"resume\" --theme=stackoverflow --format=html",
     "test-lint": "jsonlint resume.json --quiet",
     "test-validate": "resume test",
     "test-spellcheck": "yaspeller resume.json",
