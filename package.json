@@ -1,28 +1,30 @@
 {
   "name": "resume.json",
+  "version": "1.0.0",
   "description": "My JSON Resume",
-  "bugs": "https://github.com/alebelcor/resume.json/issues",
   "license": "MIT",
+  "repository": "alebelcor/resume.json",
   "author": {
     "name": "Alejandro Beltrán",
     "email": "alebelcor@gmail.com",
     "url": "https://github.com/alebelcor"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/alebelcor/resume.json.git"
+  "private": true,
+  "main": "resume.json",
+  "engines": {
+    "node": ">=4"
   },
   "scripts": {
     "build": "resume export \"resume\" --theme=stackoverflow --format=html",
-    "test-lint": "jsonlint resume.json --quiet",
-    "test-validate": "resume test",
-    "test-spellcheck": "yaspeller resume.json",
-    "test": "npm run test-lint && npm run test-validate && npm run test-spellcheck"
+    "test:lint": "jsonlint resume.json --quiet",
+    "test:validate": "resume test",
+    "test:spellcheck": "yaspeller-ci resume.json",
+    "test": "npm run test:lint && npm run test:validate && npm run test:spellcheck"
   },
   "devDependencies": {
     "jsonlint": "^1.6.2",
-    "resume-cli": "^0.4.14",
-    "yaspeller": "^3.0.0"
-  },
-  "private": true
+    "jsonresume-theme-stackoverflow": "^1.0.4",
+    "resume-cli": "^0.4.19",
+    "yaspeller-ci": "^0.1.0"
+  }
 }
