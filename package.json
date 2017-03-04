@@ -15,7 +15,7 @@
     "node": ">=4"
   },
   "scripts": {
-    "build": "resume export \"resume\" --theme=stackoverflow --format=html",
+    "build": "resume export \"docs/resume\" --theme=stackoverflow --format=html",
     "test:lint": "jsonlint resume.json --quiet",
     "test:validate": "resume test",
     "test:spellcheck": "yaspeller-ci resume.json",
