@@ -19,7 +19,7 @@
     "test:lint": "jsonlint resume.json --quiet",
     "test:validate": "resume test",
     "test:spellcheck": "yaspeller-ci resume.json",
-    "test": "npm run test:lint && npm run test:validate && npm run test:spellcheck"
+    "test": "npm run test:lint && npm run test:validate"
   },
   "devDependencies": {
     "jsonlint": "^1.6.3",
