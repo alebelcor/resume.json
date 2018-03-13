@@ -22,9 +22,9 @@
     "test": "npm run test:lint && npm run test:validate && npm run test:spellcheck"
   },
   "devDependencies": {
-    "jsonlint": "^1.6.2",
-    "jsonresume-theme-stackoverflow": "^1.0.4",
+    "jsonlint": "^1.6.3",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
     "resume-cli": "^0.4.19",
-    "yaspeller-ci": "^0.1.0"
+    "yaspeller-ci": "^1.0.0"
   }
 }
