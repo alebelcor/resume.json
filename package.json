@@ -15,7 +15,9 @@
     "node": ">=8"
   },
   "scripts": {
-    "build": "resume export \"docs/index\" --theme=stackoverflow --format=html",
+    "build": "npm run build:main && npm run build:post",
+    "build:main": "resume export \"docs/index\" --theme=stackoverflow --format=html",
+    "build:post": "sed -i 's/<head>/<head>\\n  <meta name=\"robots\" content=\"noindex,nofollow\">/g' docs/index.html",
     "test:lint": "jsonlint resume.json --quiet",
     "test:validate": "resume test",
     "test:spellcheck": "yaspeller-ci resume.json",
