@@ -136,12 +136,13 @@
         "HTML",
         "CSS",
         "JavaScript",
-        "a11y",
-        "Sass",
+        "Web Performance",
+        "Web Accessibility",
+        "React",
         "Ember.js",
         "Handlebars.js",
         "jQuery",
-        "Web performance"
+        "Sass"
       ]
     },
     {
