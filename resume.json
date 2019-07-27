@@ -23,6 +23,51 @@
       }
     ]
   },
+  "projects": [
+    {
+      "name": "React Resume Editor",
+      "description": "💼 Resume editor web app written in React/Apollo/GraphQL/Prisma",
+      "keywords": [
+        "React",
+        "Apollo",
+        "GraphQL",
+        "Prisma"
+      ],
+      "url": "https://github.com/alebelcor/react-resume-editor",
+      "type": "Personal"
+    },
+    {
+      "name": "React Tic-tac-toe",
+      "description": "⭕️❌❌ Tic-tac-toe written in React and Redux",
+      "keywords": [
+        "React",
+        "Redux"
+      ],
+      "url": "https://alebelcor.github.io/react-tic-tac-toe/",
+      "type": "Personal"
+    },
+    {
+      "name": "gigs",
+      "description": "☕️ A jobs/careers/openings/positions aggregator",
+      "keywords": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "url": "https://github.com/alebelcor/gigs",
+      "type": "Personal"
+    },
+    {
+      "name": "Many more on GitHub!",
+      "description": "Feel free to take a look",
+      "keywords": [
+        "React",
+        "JavaScript",
+        "Node.js"
+      ],
+      "url": "https://github.com/alebelcor",
+      "type": "Personal"
+    }
+  ],
   "work": [
     {
       "company": "Switchfly, LLC. (via Nearsoft)",
