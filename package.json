@@ -27,6 +27,6 @@
     "jsonlint": "^1.6.3",
     "jsonresume-theme-stackoverflow": "^1.4.0",
     "resume-cli": "^1.2.4",
-    "yaspeller-ci": "^1.0.0"
+    "yaspeller-ci": "^1.0.1"
   }
 }
