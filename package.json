@@ -15,14 +15,15 @@
     "node": ">=8"
   },
   "scripts": {
-    "build": "npm run build:main && npm run build:post",
+    "build": "npm run build:main",
     "build:main": "resume export \"docs/index\" --theme=stackoverflow --format=html",
-    "build:post": "sed -i 's/<head>/<head>\\n  <meta name=\"robots\" content=\"noindex,nofollow\">/g' docs/index.html",
-    "postinstall": "sed -i 's/{{name}}$/{{{name}}}/' node_modules/jsonresume-theme-stackoverflow/theme/partials/references.hbs",
+    "postinstall": "npm run postinstall:no-indexing && npm run postinstall:references",
+    "postinstall:no-indexing": "sed -i 's/  <meta charset=\"utf-8\">$/  <meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex,nofollow\">/g' node_modules/jsonresume-theme-stackoverflow/resume.hbs",
+    "postinstall:references": "sed -i 's/@media print {$/@media print { .section:last-of-type > section { display: none; } .section:last-of-type::after { content: \"https:\\/\\/alebelcor.github.io\\/resume.json\\/#references\"; color: #0095ff; }/g' node_modules/jsonresume-theme-stackoverflow/style.css",
+    "test": "npm run test:lint && npm run test:validate",
     "test:lint": "jsonlint resume.json --quiet",
     "test:validate": "resume test",
-    "test:spellcheck": "yaspeller-ci resume.json",
-    "test": "npm run test:lint && npm run test:validate"
+    "test:spellcheck": "yaspeller-ci resume.json"
   },
   "devDependencies": {
     "jsonlint": "^1.6.3",
