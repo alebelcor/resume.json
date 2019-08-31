@@ -17,9 +17,10 @@
   "scripts": {
     "build": "npm run build:main",
     "build:main": "resume export \"docs/index\" --theme=stackoverflow --format=html",
-    "postinstall": "npm run postinstall:no-indexing && npm run postinstall:references",
+    "postinstall": "npm run postinstall:no-indexing && npm run postinstall:add-reference-section-link && npm run postinstall:allow-reference-profile-link",
     "postinstall:no-indexing": "sed -i 's/  <meta charset=\"utf-8\">$/  <meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex,nofollow\">/g' node_modules/jsonresume-theme-stackoverflow/resume.hbs",
-    "postinstall:references": "sed -i 's/@media print {$/@media print { .section:last-of-type > section { display: none; } .section:last-of-type::after { content: \"https:\\/\\/alebelcor.github.io\\/resume.json\\/#references\"; color: #0095ff; }/g' node_modules/jsonresume-theme-stackoverflow/style.css",
+    "postinstall:add-reference-section-link": "sed -i 's/@media print {$/@media print { .section:last-of-type > section { display: none; } .section:last-of-type::after { content: \"https:\\/\\/alebelcor.github.io\\/resume.json\\/#references\"; color: #0095ff; }/g' node_modules/jsonresume-theme-stackoverflow/style.css",
+    "postinstall:allow-reference-profile-link": "sed -i 's/        {{name}}$/        {{{name}}}/g' node_modules/jsonresume-theme-stackoverflow/theme/partials/references.hbs",
     "test": "npm run test:lint && npm run test:validate",
     "test:lint": "jsonlint resume.json --quiet",
     "test:validate": "resume test",
