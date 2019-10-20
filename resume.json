@@ -4,7 +4,7 @@
     "label": "Software Engineer",
     "picture": "https://en.gravatar.com/userimage/20121596/0785d89eb1f0f04ddfb77a963a56d2fa.jpg?size=200",
     "email": "alebelcor@gmail.com",
-    "summary": "Motivated and focused professional that is constantly searching for excellence through expansion of current knowledge and delivery of high quality work. <br><br> Currently training in React, Redux, and Ruby.",
+    "summary": "Motivated and focused professional that is constantly searching for excellence through expansion of current knowledge and delivery of high quality work.",
     "location": {
       "city": "Hermosillo",
       "countryCode": "MX",
@@ -24,6 +24,30 @@
     ]
   },
   "projects": [
+    {
+      "name": "Effective a11y",
+      "description": "🤝 Hands-on Web accessibility",
+      "keywords": [
+        "Accessibility",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "url": "https://github.com/alebelcor/effective-a11y",
+      "type": "Personal"
+    },
+    {
+      "name": "React Property List",
+      "description": "🏠 Property list/detail showcase web app written in React/React Hooks/Reach Router/Emotion",
+      "keywords": [
+        "React",
+        "React Hooks",
+        "Reach Router",
+        "Emotion"
+      ],
+      "url": "https://github.com/alebelcor/react-resume-editor",
+      "type": "Personal"
+    },
     {
       "name": "React Resume Editor",
       "description": "💼 Resume editor web app written in React/Apollo/GraphQL/Prisma",
@@ -47,23 +71,8 @@
       "type": "Personal"
     },
     {
-      "name": "gigs",
-      "description": "☕️ A jobs/careers/openings/positions aggregator",
-      "keywords": [
-        "JavaScript",
-        "Node.js"
-      ],
-      "url": "https://github.com/alebelcor/gigs",
-      "type": "Personal"
-    },
-    {
       "name": "Many more on GitHub!",
       "description": "Feel free to take a look",
-      "keywords": [
-        "React",
-        "JavaScript",
-        "Node.js"
-      ],
       "url": "https://github.com/alebelcor",
       "type": "Personal"
     }
@@ -114,13 +123,14 @@
       "name": "Software Engineering",
       "level": "Advanced",
       "keywords": [
-        "Agile software development",
-        "Continuous integration",
-        "Git",
-        "Software release cycle",
-        "Software security",
-        "Static code analysis",
-        "Unit testing"
+        "Agile Software Development",
+        "Continuous Integration",
+        "Software Release Cycle",
+        "Software Security",
+        "Static Code Analysis",
+        "Unit Testing",
+        "Integration Testing",
+        "End-to-end Testing"
       ]
     },
     {
@@ -133,6 +143,9 @@
         "Web Performance",
         "Web Accessibility",
         "React",
+        "React Hooks",
+        "Redux",
+        "CSS-in-JS",
         "Ember.js",
         "Handlebars.js",
         "jQuery",
@@ -146,13 +159,15 @@
         "AVA",
         "Chai",
         "ESLint",
+        "Prettier",
+        "XO",
         "Grunt",
         "Gulp",
         "Jasmine",
-        "JSHint",
         "Karma",
         "Mocha",
         "npm",
+        "Yarn",
         "PostCSS"
       ]
     },
@@ -160,15 +175,17 @@
       "name": "Tooling",
       "level": "Advanced",
       "keywords": [
+        "Git",
         "Ant",
         "Bash",
         "Zsh",
         "Homebrew",
         "Homebrew Cask",
         "IntelliJ IDEA",
-        "iTerm2",
+        "Terminal",
+        "Alacritty",
         "Markdown",
-        "Sublime Text",
+        "VS Code",
         "Travis CI"
       ]
     }
