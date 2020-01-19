@@ -79,10 +79,18 @@
   ],
   "work": [
     {
-      "company": "Switchfly, LLC. (via Nearsoft)",
+      "company": "AmericanTours International, LLC (via Nearsoft)",
+      "position": "Software Engineer",
+      "website": "https://americantours.com",
+      "startDate": "2019-11-01",
+      "summary": "Focused on Front End Engineering, designing and building, from scratch, an internal administration tool for payment review and processing using React.<br><br>Tech: JavaScript, HTML, CSS, Sass (SCSS), Node.js, React, React Bootstrap, React Router, Reselect, Jest, React Testing Library, Create React App, PropTypes, ESLint, Prettier, Husky, Yarn, date-fns, Visual Studio Code, SVN with git-svn"
+    },
+    {
+      "company": "Switchfly, LLC (via Nearsoft)",
       "position": "Software Engineer",
       "website": "https://switchfly.com",
       "startDate": "2014-02-01",
+      "endDate": "2019-08-01",
       "summary": "Focused on Front End Engineering and maintenance of a SaaS platform that powers travel, loyalty, social, payment, and mobile products for multiple clients. <br><br> Tech: JavaScript, Java, HTML, CSS, Sass (SCSS), Ember.js, Handlebars.js, Git, Gulp, JSHint, Karma, Mocha, Chai, npm, jQuery, Selenium, Jenkins, Ant, Maven, IntelliJ IDEA"
     },
     {
