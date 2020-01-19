@@ -124,17 +124,17 @@
       "level": "Advanced",
       "keywords": [
         "Agile Software Development",
-        "Continuous Integration",
         "Software Release Cycle",
-        "Software Security",
-        "Static Code Analysis",
         "Unit Testing",
         "Integration Testing",
-        "End-to-end Testing"
+        "End-to-end Testing",
+        "Continuous Integration",
+        "Software Security",
+        "Static Code Analysis"
       ]
     },
     {
-      "name": "Front End Engineering",
+      "name": "Front End (Web)",
       "level": "Advanced",
       "keywords": [
         "HTML",
@@ -153,40 +153,32 @@
       ]
     },
     {
-      "name": "Node.js",
+      "name": "Tools",
       "level": "Advanced",
       "keywords": [
-        "AVA",
-        "Chai",
+        "Node.js",
+        "npm",
+        "Yarn",
         "ESLint",
         "Prettier",
         "XO",
+        "AVA",
+        "Chai",
+        "Jasmine",
+        "Mocha",
+        "Jest",
+        "Karma",
         "Grunt",
         "Gulp",
-        "Jasmine",
-        "Karma",
-        "Mocha",
-        "npm",
-        "Yarn",
-        "PostCSS"
-      ]
-    },
-    {
-      "name": "Tooling",
-      "level": "Advanced",
-      "keywords": [
+        "PostCSS",
         "Git",
-        "Ant",
         "Bash",
         "Zsh",
         "Homebrew",
         "Homebrew Cask",
-        "IntelliJ IDEA",
-        "Terminal",
-        "Alacritty",
         "Markdown",
         "VS Code",
-        "Travis CI"
+        "IntelliJ IDEA"
       ]
     }
   ],
