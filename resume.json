@@ -3,7 +3,7 @@
     "name": "Alejandro Beltrán Coronado",
     "label": "Front End Engineer",
     "email": "alebelcor@gmail.com",
-    "summary": "10 years of experience in Web Development with a specialty and passion for Front End, performance, and accessibility.",
+    "summary": "10+ years of experience in Web Development with a specialty and passion for Front End, performance, and accessibility.",
     "location": {
       "city": "Hermosillo",
       "countryCode": "MX",
@@ -82,7 +82,7 @@
       "position": "Software Engineer",
       "website": "https://americantours.com",
       "startDate": "2019-11-01",
-      "summary": "Focused on Front End Engineering, designing and building, from scratch, an internal administration tool for payment review and processing using React.<br><br>Tech: JavaScript, HTML, CSS, Sass (SCSS), Node.js, React, React Bootstrap, React Router, Reselect, Jest, React Testing Library, Create React App, PropTypes, ESLint, Prettier, Husky, Yarn, date-fns, Visual Studio Code, SVN with git-svn"
+      "summary": "Focused on Front End Engineering, designing and building, from scratch, an internal administration tool for payment review and processing using React.<br><br>Tech: JavaScript, HTML, CSS, Sass (SCSS), React, React Bootstrap, React Router, Reselect, Jest, React Testing Library, Create React App, PropTypes, Node.js, Express, ESLint, Prettier, Husky, Yarn, date-fns, Visual Studio Code, SVN with git-svn"
     },
     {
       "company": "Switchfly, LLC (via Nearsoft)",
